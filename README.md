@@ -1,6 +1,6 @@
 # Example code from [StackRox blog posts](https://www.stackrox.com/post/)
 
-This repository contains sample code and long-form examples used in posts o
+This repository contains sample code and long-form examples used in posts on
 [www.stackrox.com](https://www.stackrox.com)
 
 ## Table of Contents
